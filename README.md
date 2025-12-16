@@ -1,5 +1,10 @@
 # HormigasAIS-AutomationCore
 
+
+
+![HormigasAIS-72 111 114 109 105 103 97 115 65 73 83](https://github.com/Thrumanshow/HormigasAIS-AutomationCore/refs/heads/main/assets/72 111 114 109 105 103 97 115 65 73 83)
+
+
 **HormigasAIS AutomationCore** is the core automation engine of the HormigasAIS ecosystem.
 
 It operates as an official **GitHub App**, enabling secure automation, webhook processing, and AI-assisted workflows across repositories and organizations.
