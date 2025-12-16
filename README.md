@@ -1,88 +1,72 @@
-# HormigasAIS-AutomationCore
+# HormigasAIS AutomationCore
 
+![HormigasAIS Binary](https://github.com/user-attachments/assets/4f103803-ea5d-4873-8631-bd97bb8ac884)
 
-<h2 align="center">
-  <img
-    src="https://github.com/user-attachments/assets/4f103803-ea5d-4873-8631-bd97bb8ac884"
-    width="32"
-    height="32"
-    alt="HormigasAIS Binary"
-    style="vertical-align: middle;"
-  />
-  HormigasAIS AutomationCore
-</h2>
+**HormigasAIS AutomationCore** es el motor central de automatización del ecosistema HormigasAIS.
 
-<p align="center">
-  <a href="https://github.com/Thrumanshow/HormigasAIS-AutomationCore/releases">
-    <img src="https://img.shields.io/github/v/release/Thrumanshow/HormigasAIS-AutomationCore?style=flat-square" />
-  </a>
-</p>
-
-
-**HormigasAIS AutomationCore** is the core automation engine of the HormigasAIS ecosystem.
-
-It operates as an official **GitHub App**, enabling secure automation, webhook processing, and AI-assisted workflows across repositories and organizations.
+Opera como una **GitHub App oficial**, habilitando automatización segura, procesamiento de webhooks y flujos de trabajo asistidos por IA a través de repositorios y organizaciones.
 
 ---
 
-## 🧠 Core Concept
+## 🧠 Concepto Principal
+AutomationCore actúa como el **sistema nervioso central** que conecta eventos de GitHub con módulos de automatización inteligente.
 
-AutomationCore acts as the central nervous system that connects GitHub events with intelligent automation modules.
+### Módulos incluidos:
+- **XOXO** – Agente interno de IA para interpretación de eventos y respuestas automatizadas
+- Procesadores de webhooks
+- Flujos de trabajo basados en eventos
+- Futuras extensiones de automatización (LBH, H-AIS)
 
-### Included modules:
-- **XOXO** – Internal AI agent for event interpretation and automated responses
-- Webhook processors
-- Event-driven workflows
-- Future automation extensions (LBH, H-AIS)
-
-> XOXO is not a standalone GitHub App.  
-> It operates internally within AutomationCore.
+**XOXO** no es una GitHub App independiente. Funciona internamente dentro de AutomationCore.
 
 ---
 
-## ⚙️ Capabilities
+## ⚙️ Capacidades
 
-- GitHub webhook handling
-- Repository & organization automation
-- Secure token-based authentication
-- AI-assisted decision logic
-- Modular and extensible architecture
+- Manejo de webhooks de GitHub
+- Automatización de repositorios y organizaciones
+- Autenticación segura basada en tokens
+- Lógica de decisiones asistida por IA
+- Arquitectura modular y extensible
 
 ---
 
-## 🔐 Privacy & Terms
+## 🔐 Privacidad & Términos
+Este proyecto incluye documentación legal oficial necesaria para el uso de la GitHub App y su listado en el Marketplace:
 
-This project includes official legal documentation required for GitHub App usage and Marketplace listing:
-
-- [Privacy Policy](./PRIVACY.md)
-- [Terms of Service](./TERMS.md)
+- [Política de privacidad](#)
+- [Términos de servicio](#)
 
 ---
 
 ## 🔗 GitHub App
 
-Public App page:  
-https://github.com/apps/hormigasais-automationcore
+Página pública de la App:  
+[HormigasAIS AutomationCore](https://github.com/apps/hormigasais-automationcore)
 
 ---
 
-## 🚧 Status
-
-Active development — core infrastructure established.
+## 🚧 Estado
+Desarrollo activo — infraestructura central establecida.
 
 ---
 
-## 👤 Maintained by
-
-**Thrumanshow**  
-https://github.com/Thrumanshow
+## 👤 Mantenido por
+[Thrumanshow](https://github.com/Thrumanshow)
 
 ---
 
 ## LHB-CERT
-Origin: HormigasAIS  
-Encoding: ASCII → Binary (8-bit)  
-Signature:
-0100100001101111011100100110110101101001011001110110000101110011010000010100100101010011
 
-> “Here we are, with a curious mind and a willing heart.”
+Origen: **HormigasAIS**  
+Codificación: **ASCII → Binario (8-bit)**  
+Firma:  
+`0100100001101111011100100110110101101001011001110110000101110011010000010100100101010011`
+
+“**Aquí estamos, con la mente curiosa y el corazón dispuesto**.”
+
+---
+
+## 🚀 Releases
+
+[![Release](https://img.shields.io/github/v/release/Thrumanshow/HormigasAIS-AutomationCore?style=flat-square)](https://github.com/Thrumanshow/HormigasAIS-AutomationCore/releases)
