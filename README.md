@@ -1,8 +1,22 @@
 # HormigasAIS-AutomationCore
 
 
+<h2 align="center">
+  <img
+    src="https://github.com/user-attachments/assets/4f103803-ea5d-4873-8631-bd97bb8ac884"
+    width="32"
+    height="32"
+    alt="HormigasAIS Binary"
+    style="vertical-align: middle;"
+  />
+  HormigasAIS AutomationCore
+</h2>
 
-![HormigasAIS-72 111 114 109 105 103 97 115 65 73 83](https://github.com/Thrumanshow/HormigasAIS-AutomationCore/refs/heads/main/assets/72 111 114 109 105 103 97 115 65 73 83)
+<p align="center">
+  <a href="https://github.com/Thrumanshow/HormigasAIS-AutomationCore/releases">
+    <img src="https://img.shields.io/github/v/release/Thrumanshow/HormigasAIS-AutomationCore?style=flat-square" />
+  </a>
+</p>
 
 
 **HormigasAIS AutomationCore** is the core automation engine of the HormigasAIS ecosystem.
