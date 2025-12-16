@@ -117,3 +117,17 @@ Founder of **HormigasAIS**
 **Origin:** HormigasAIS  
 **Encoding:** ASCII → Binary (8-bit)  
 **Signature:**
+
+01001000 01101111 01110010 01101101 01101001 01100111 01100001 01110011 01000001 01001001 01010011
+
+> “Here we are, with a curious mind and a willing heart.”
+
+---
+
+## 🚀 Releases
+
+All official versions are published here:  
+👉 https://github.com/Thrumanshow/HormigasAIS-AutomationCore/releases
+
+
+---
